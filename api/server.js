@@ -22,7 +22,7 @@ const router = jsonServer.router(
                 "beerType": "RED",
                 "review": "Was excellent!",
                 "rating": 4,
-                "servingStyle": "DRAFT"
+                "servingStyle": "Draft"
             },
             {
                 "id": "1e4426d1-c690-48d2-b27d-490503b258a8",
@@ -31,7 +31,7 @@ const router = jsonServer.router(
                 "beerType": "IPA",
                 "review": "Not too bad",
                 "rating": 2,
-                "servingStyle": "CAN"
+                "servingStyle": "Can"
             },
             {
                 "id": "3b9c91f3-e804-4c22-b8f1-ff6dabc1881e",
@@ -40,7 +40,7 @@ const router = jsonServer.router(
                 "beerType": "SOUR",
                 "review": "Way too sour. Do not recommend.",
                 "rating": 1,
-                "servingStyle": "DRAFT"
+                "servingStyle": "Draft"
             },
             {
                 "id": "53c5d4e7-529e-42b0-9a8f-a3965d5cf574",
@@ -49,7 +49,7 @@ const router = jsonServer.router(
                 "beerType": "STOUT",
                 "review": "Very good",
                 "rating": 4,
-                "servingStyle": "BOTTLE"
+                "servingStyle": "Bottle"
             },
             {
                 "id": "b01f3c43-e86e-4ca5-88a3-fbaa7455efe0",
@@ -58,7 +58,7 @@ const router = jsonServer.router(
                 "beerType": "AMBER",
                 "review": "Drain pour!",
                 "rating": 1,
-                "servingStyle": "DRAFT"
+                "servingStyle": "Draft"
             },
             {
                 "id": "be77b2b8-15a7-44f9-8ad3-51e8d5cf85f9",
@@ -67,7 +67,7 @@ const router = jsonServer.router(
                 "beerType": "BELGIAN",
                 "review": "Very nice, great flavor.",
                 "rating": 4,
-                "servingStyle": "DRAFT"
+                "servingStyle": "Draft"
             },
             {
                 "id": "35971f83-3fff-4122-b73c-ee0f0058506d",
@@ -76,7 +76,7 @@ const router = jsonServer.router(
                 "beerType": "LAGER",
                 "review": "Smooth!",
                 "rating": 3,
-                "servingStyle": "CAN"
+                "servingStyle": "Can"
             }
         ]
     }
