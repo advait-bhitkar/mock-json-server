@@ -5,8 +5,8 @@
       "name": "Cancun Trip",
       "airline": "Southwest",
       "seatNumber": "20",
-      "departureDate": "04/15/24",
-      "arrivalDate": "04/30/24",
+      "departureDate": "4/15/24",
+      "arrivalDate": "4/30/24",
       "flightClass": "First"
     },
     {
@@ -14,8 +14,8 @@
       "name": "France",
       "airline": "United",
       "seatNumber": "35",
-      "departureDate": "06/22/24",
-      "arrivalDate": "06/29/24",
+      "departureDate": "6/22/24",
+      "arrivalDate": "6/29/24",
       "flightClass": "Coach"
     },
     {
@@ -23,8 +23,8 @@
       "name": "Washington",
       "airline": "Delta",
       "seatNumber": "5",
-      "departureDate": "03/28/24",
-      "arrivalDate": "04/01/24",
+      "departureDate": "3/28/24",
+      "arrivalDate": "4/01/24",
       "flightClass": "Premium"
     },
     {
@@ -32,9 +32,56 @@
       "name": "Canada",
       "airline": "United",
       "seatNumber": "56",
-      "departureDate": "07/15/24",
-      "arrivalDate": "07/30/24",
+      "departureDate": "7/15/24",
+      "arrivalDate": "7/30/24",
+      "flightClass": "First"
+    },
+    {
+      "id": "5b33f772-3198-4e4f-b3dd-237cc1d42f9f",
+      "name": "Africa",
+      "airline": "Delta",
+      "seatNumber": "199",
+      "departureDate": "8/22/24",
+      "arrivalDate": "9/15/24",
+      "flightClass": "Coach"
+    },
+    {
+      "id": "0bd16d03-51e8-4eb4-a0e1-f24181390c13",
+      "name": "Norway",
+      "airline": "United",
+      "seatNumber": "8",
+      "departureDate": "10/31/24",
+      "arrivalDate": "11/26/24",
+      "flightClass": "Premium"
+    },
+    {
+      "id": "a38cae08-d047-4a3b-a00c-3ac6a4eb08bd",
+      "name": "Mexico",
+      "airline": "Southwest",
+      "seatNumber": "18",
+      "departureDate": "11/01/24",
+      "arrivalDate": "11/11/24",
+      "flightClass": "Coach"
+    },
+    {
+      "id": "17fc32d6-9f3c-4b3d-88f5-c6b6bdf10fa9",
+      "name": "Brazil",
+      "airline": "Delta",
+      "seatNumber": "159",
+      "departureDate": "12/05/24",
+      "arrivalDate": "1/11/22",
+      "flightClass": "Coach"
+    }
+  ,
+    {
+      "id": "21b5eb80-ad17-40cf-9c7b-1a5cc3fe06aa",
+      "name": "Peru",
+      "airline": "United",
+      "seatNumber": "3",
+      "departureDate": "2/01/25",
+      "arrivalDate": "2/15/25",
       "flightClass": "First"
     }
+
   ]
 }
