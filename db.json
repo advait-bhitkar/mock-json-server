@@ -80,42 +80,6 @@
       "departureDate": "2/01/25",
       "arrivalDate": "2/15/25",
       "flightClass": "First"
-    },
-    {
-      "id": "db105487-0b07-452b-bf78-de32fe9a3ab1",
-      "name": "Austin",
-      "airline": "Southwest",
-      "seatNumber": "12",
-      "departureDate": "3/02/25",
-      "arrivalDate": "3/09/25",
-      "flightClass": "Coach"
-    },
-    {
-      "id": "28a43056-4d79-4470-bc98-694bc31edee0",
-      "name": "Boston",
-      "airline": "Southwest",
-      "seatNumber": "118",
-      "departureDate": "2/18/25",
-      "arrivalDate": "2/22/25",
-      "flightClass": "Coach"
-    },
-    {
-      "id": "c0915f7f-dc11-4774-8fe7-b4d3f96d36ea",
-      "name": "Alaska",
-      "airline": "Alaska Airlines",
-      "seatNumber": "185",
-      "departureDate": "4/18/25",
-      "arrivalDate": "4/26/25",
-      "flightClass": "First"
-    },
-    {
-      "id": "4251e83a-09b5-4a05-8230-20b9e923fea6",
-      "name": "New York",
-      "airline": "United",
-      "seatNumber": "111",
-      "departureDate": "5/06/25",
-      "arrivalDate": "5/15/25",
-      "flightClass": "First"
     }
   ]
 }
