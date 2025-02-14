@@ -84,25 +84,21 @@
   ],
   "sessions": [],
   "delivery-widget-data": {
-    
-  
-               "success": true,
-               "data": {
-                   "type": "delivery_widget",
-                   "widget_data": {
-                       "title": "Explore Delivery",
-                       "bg_color": "#FFFFFF",
-                       "widgets": [
-                        {"title": "One Tap Delivery", "subtitle": "Get your order in 30 mins", "image_url": "" },
-                        {"title": "Get Delivered", "subtitle": "Explore Order", "image_url":  ""}
-                       ]
-                  },
-                   "server_date": "2025-02-14T10:07:54.941Z"
-              },
-               "code": 200,
-               "message": "Success",
-               "errors": []
-          }
-      
-
+    "success": true,
+        "data": {
+            "type": "delivery_widget",
+            "widget_data": {
+                "title": "Explore Delivery",
+                "bg_color": "#FFFFFF",
+                "widgets": [
+                {"title": "One Tap Delivery", "subtitle": "Get your order in 30 mins", "image_url": "" },
+                {"title": "Get Delivered", "subtitle": "Explore Order", "image_url":  ""}
+                ]
+          },
+            "server_date": "2025-02-14T10:07:54.941Z"
+      },
+        "code": 200,
+        "message": "Success",
+        "errors": []
+  }
 }
