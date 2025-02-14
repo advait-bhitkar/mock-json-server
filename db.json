@@ -82,5 +82,9 @@
       "flightClass": "First"
     }
   ],
-  "sessions": []
+  "sessions": [],
+  "api": {
+    "flights": "/flights",
+    "sessions": "/sessions"
+  }
 }
